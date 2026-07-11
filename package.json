@@ -23,6 +23,7 @@
     "circuit-json": "^0.0.425",
     "looks-same": "^10.0.1",
     "occt-import-js": "^0.0.23",
+    "schematic-symbols": "^0.0.221",
     "poppygl": "^0.0.24",
     "tsup": "^8.5.0"
   },
@@ -34,7 +35,6 @@
   "dependencies": {
     "circuit-json-to-connectivity-map": "^0.0.22",
     "circuit-json-to-gltf": "^0.0.106",
-    "schematic-symbols": "^0.0.202",
     "stepts": "^0.0.4"
   }
 }
